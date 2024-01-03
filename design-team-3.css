@@ -42,12 +42,13 @@
   width: var(--dl-size-size-medium);
   height: auto;
   position: absolute;
-  font-size: 10px;
+  font-size: 20px;
   align-self: center;
   font-style: italic;
   text-align: center;
   font-family: "Arial";
   font-weight: 400;
+  text-decoration: none;
 }
 
 
