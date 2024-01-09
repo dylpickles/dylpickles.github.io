@@ -341,6 +341,12 @@
 .home-text2 {
   padding-bottom: var(--dl-space-space-unit);
 }
+.home-navlink {
+  display: contents;
+}
+.home-component {
+  text-decoration: none;
+}
 @media(max-width: 991px) {
   .home-hero {
     flex-direction: column;
