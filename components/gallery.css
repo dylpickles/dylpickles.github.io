@@ -1,0 +1,24 @@
+.gallery-container {
+  gap: var(--dl-space-space-twounits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.gallery-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.gallery-image1 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.gallery-image2 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
