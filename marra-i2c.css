@@ -45,11 +45,13 @@
   text-decoration: none;
 }
 .project-post-header-text1 {
+  max-width: 500px;
   text-transform: uppercase;
 }
 .project-post-header-text2 {
   width: auto;
   font-size: 20px;
+  max-width: var(--dl-size-size-xlarge);
   align-self: center;
   font-style: italic;
   text-align: center;
@@ -85,6 +87,9 @@
 .slide-section-text {
   width: 60%;
 }
+
+
+
 
 
 

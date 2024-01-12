@@ -45,11 +45,13 @@
   text-decoration: none;
 }
 .project-post-header-text1 {
+  max-width: 500px;
   text-transform: uppercase;
 }
 .project-post-header-text2 {
   width: auto;
   font-size: 20px;
+  max-width: var(--dl-size-size-xlarge);
   align-self: center;
   font-style: italic;
   text-align: center;
@@ -91,6 +93,9 @@
 
 
 
+
+
+
 .orifice-plate-container {
   width: 100%;
   display: flex;
@@ -115,6 +120,15 @@
   padding-top: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.orifice-plate-text4 {
-  width: var(--dl-size-size-xxlarge);
+.orifice-plate-text1 {
+  align-self: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.orifice-plate-text2 {
+  padding-top: var(--dl-space-space-fiveunits);
+}
+.orifice-plate-text5 {
+  width: 450px;
+  padding-top: var(--dl-space-space-threeunits);
 }
