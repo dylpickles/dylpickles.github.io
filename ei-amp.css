@@ -116,6 +116,8 @@
 
 
 
+
+
 .footer-footer {
   flex: 0 0 auto;
   width: 100%;
@@ -291,6 +293,10 @@
   align-self: center;
   padding-top: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-halfunit);
+}
+.ei-amp-video {
+  width: 80%;
+  height: auto;
 }
 .ei-amp-text01 {
   padding-top: var(--dl-space-space-fiveunits);
