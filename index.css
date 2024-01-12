@@ -214,6 +214,8 @@
 
 
 
+
+
 @media(max-width: 767px) {
   .footer-footer1 {
     padding-left: var(--dl-space-space-twounits);
@@ -395,6 +397,12 @@
   text-decoration: none;
 }
 .home-component2 {
+  text-decoration: none;
+}
+.home-navlink2 {
+  display: contents;
+}
+.home-component3 {
   text-decoration: none;
 }
 @media(max-width: 991px) {
