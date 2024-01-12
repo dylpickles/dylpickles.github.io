@@ -17,6 +17,7 @@
 }
 .project-button-template-navlink {
   left: 0px;
+  color: rgba(0, 0, 0, 0);
   width: 100%;
   height: 100%;
   opacity: 0;
@@ -299,10 +300,13 @@
   align-items: center;
   justify-content: center;
 }
-.home-image1 {
-  width: 47px;
-  height: 47px;
-  object-fit: cover;
+.home-icon {
+  fill: #ffffff;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+}
+.home-text {
+  color: rgb(255, 255, 255);
 }
 .home-container5 {
   gap: var(--dl-space-space-halfunit);
@@ -312,11 +316,13 @@
   align-items: center;
   justify-content: center;
 }
-.home-image2 {
-  width: 37px;
-  height: 47px;
-  object-fit: cover;
-  margin-right: 10px;
+.home-icon2 {
+  fill: #ffffff;
+  width: 42px;
+  height: 42px;
+}
+.home-text1 {
+  color: rgb(255, 255, 255);
 }
 .home-btn-group {
   gap: var(--dl-space-space-oneandhalfunits);
@@ -364,6 +370,7 @@
 }
 .home-button {
   left: 0px;
+  color: rgba(0, 0, 0, 0);
   width: 100%;
   height: 100%;
   opacity: 0;
@@ -375,7 +382,7 @@
   transition: 0.3s;
   border-color: #ffffff;
   border-width: 0px;
-  background-color: #ffffff;
+  background-color: rgb(255, 255, 255);
 }
 .home-button:hover {
   opacity: 0.3;
@@ -404,13 +411,25 @@
   padding-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.home-image3 {
+.home-image1 {
   width: 100%;
   height: 100%;
   opacity: 1;
   z-index: 1;
   align-self: center;
   object-fit: cover;
+}
+.home-navlink1 {
+  display: contents;
+}
+.home-component {
+  text-decoration: none;
+}
+.home-navlink2 {
+  display: contents;
+}
+.home-component1 {
+  text-decoration: none;
 }
 @media(max-width: 991px) {
   .home-hero {
