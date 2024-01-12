@@ -16,6 +16,10 @@
   box-shadow: 16px 16px 0px 0px #ed4e4e;
   object-fit: cover;
 }
+.slide-section-text {
+  width: 60%;
+}
+
 
 
 
