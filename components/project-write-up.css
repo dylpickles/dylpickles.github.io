@@ -20,3 +20,19 @@
 
 
 
+
+.project-write-up-project-write-up {
+  gap: 40px;
+  width: 80%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-threeunits);
+}
+.project-write-up-text {
+  align-self: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}

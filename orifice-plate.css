@@ -64,12 +64,50 @@
 
 
 
-.page-container {
+.slide-section-slide-1 {
+  gap: var(--dl-space-space-twounits);
+  flex: 0 0 auto;
+  width: 100%;
+  height: 20vh;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  justify-content: flex-start;
+}
+.slide-section-image {
+  width: 40%;
+  height: 100%;
+  z-index: 10;
+  box-shadow: 16px 16px 0px 0px #ed4e4e;
+  object-fit: cover;
+}
+
+
+
+
+
+.orifice-plate-container {
   width: 100%;
   display: flex;
   overflow: auto;
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: flex-start;
+}
+.orifice-plate-project-write-up {
+  gap: 40px;
+  width: 80%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-threeunits);
+}
+.orifice-plate-text {
+  align-self: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-halfunit);
 }
