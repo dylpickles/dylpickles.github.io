@@ -294,6 +294,10 @@
   padding-top: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-halfunit);
 }
+.ei-amp-video {
+  width: 80%;
+  height: auto;
+}
 .ei-amp-text01 {
   padding-top: var(--dl-space-space-fiveunits);
 }

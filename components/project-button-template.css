@@ -51,10 +51,10 @@
   font-style: normal;
   text-align: center;
   font-weight: 700;
-  padding-top: var(--dl-space-space-unit);
-  padding-left: 0%;
-  padding-right: 0%;
-  padding-bottom: var(--dl-space-space-unit);
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: 0px;
   text-decoration: none;
 }
 .project-button-template-image {
