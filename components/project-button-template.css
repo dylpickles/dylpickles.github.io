@@ -65,6 +65,10 @@
   align-self: center;
   object-fit: cover;
 }
+.project-button-template-root-class-name {
+  width: 100%;
+  max-width: 100%;
+}
 .project-button-template-root-class-name1 {
   max-width: 100%;
 }
@@ -75,10 +79,6 @@
   max-width: 100%;
 }
 .project-button-template-root-class-name4 {
-  width: 100%;
-  max-width: 100%;
-}
-.project-button-template-root-class-name {
   width: 100%;
   max-width: 100%;
 }

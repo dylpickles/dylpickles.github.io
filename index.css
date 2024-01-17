@@ -65,6 +65,10 @@
   align-self: center;
   object-fit: cover;
 }
+.project-button-template-root-class-name {
+  width: 100%;
+  max-width: 100%;
+}
 .project-button-template-root-class-name1 {
   max-width: 100%;
 }
@@ -75,10 +79,6 @@
   max-width: 100%;
 }
 .project-button-template-root-class-name4 {
-  width: 100%;
-  max-width: 100%;
-}
-.project-button-template-root-class-name {
   width: 100%;
   max-width: 100%;
 }
@@ -399,23 +399,32 @@
 .home-component {
   text-decoration: none;
 }
-.home-component1 {
-  text-decoration: none;
-}
 .home-navlink1 {
   display: contents;
 }
-.home-component2 {
+.home-component1 {
   text-decoration: none;
 }
 .home-navlink2 {
   display: contents;
 }
+.home-component2 {
+  text-decoration: none;
+}
+.home-navlink3 {
+  display: contents;
+}
 .home-component3 {
   text-decoration: none;
 }
+.home-navlink4 {
+  display: contents;
+}
 .home-component4 {
   text-decoration: none;
+}
+.home-navlink5 {
+  display: contents;
 }
 .home-component5 {
   text-decoration: none;
