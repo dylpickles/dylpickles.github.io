@@ -90,6 +90,7 @@
 }
 
 
+
 .slide-section-slide-1 {
   gap: var(--dl-space-space-twounits);
   flex: 0 0 auto;
@@ -139,6 +140,18 @@
 
 
 
+
+
+
+.video-player-container {
+  display: flex;
+  position: relative;
+}
+.video-player-iframe {
+  width: 960px;
+  height: 540px;
+  margin: var(--dl-space-space-unit);
+}
 
 
 
@@ -324,9 +337,4 @@
   align-self: center;
   padding-top: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-halfunit);
-}
-.ei-amp-iframe {
-  width: 960px;
-  height: 540px;
-  margin: var(--dl-space-space-unit);
 }
