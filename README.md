@@ -5,7 +5,7 @@ Hopefully this website will fully document my work in a legible fashion.
 
 Edits to make:
 1. Write up short descriptions of my projects on the landing page. Maximize information obtainable without clicking
-2. 
+2. https://www.w3schools.com/howto/howto_css_modal_images.asp
 
 
 Fixes: 

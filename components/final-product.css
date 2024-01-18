@@ -1,0 +1,19 @@
+.final-product-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+}
+.final-product-text {
+  align-self: center;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.final-product-image {
+  width: 80%;
+  height: auto;
+  object-fit: cover;
+}
+
+
