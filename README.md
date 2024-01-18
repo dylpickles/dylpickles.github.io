@@ -4,7 +4,7 @@ My engineering portfolio
 Hopefully this website will fully document my work in a legible fashion. 
 
 Edits to make:
-1. Write up short descriptions of my projects 
+1. Write up short descriptions of my projects on the landing page. Maximize information obtainable without clicking
 2. 
 
 
