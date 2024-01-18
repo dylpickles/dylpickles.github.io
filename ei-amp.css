@@ -301,15 +301,23 @@
   padding-top: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-halfunit);
 }
+.ei-amp-image {
+  width: 50%;
+  height: auto;
+  object-fit: cover;
+}
 .ei-amp-text1 {
   align-self: center;
   padding-top: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.ei-amp-video {
-  width: 80%;
-  height: auto;
-  max-width: 80%;
-  min-width: 80%;
-  padding-bottom: var(--dl-space-space-unit);
+.ei-amp-text2 {
+  align-self: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.ei-amp-iframe {
+  width: 960px;
+  height: 540px;
+  margin: var(--dl-space-space-unit);
 }
