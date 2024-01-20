@@ -72,6 +72,10 @@
   border-right-width: 0px;
   border-bottom-width: 0px;
 }
+.project-button-template-root-class-name {
+  width: 100%;
+  max-width: 100%;
+}
 .project-button-template-root-class-name1 {
   max-width: 100%;
 }
@@ -89,8 +93,7 @@
   width: 100%;
   max-width: 100%;
 }
-.project-button-template-root-class-name {
-  width: 100%;
+.project-button-template-root-class-name6 {
   max-width: 100%;
 }
 @media(max-width: 767px) {
