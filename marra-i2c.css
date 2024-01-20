@@ -356,18 +356,18 @@
   box-shadow: 16px 16px 0px 0px #ed4e4e;
   object-fit: cover;
 }
-.marra-i2c-text01 {
-  width: 60%;
-  max-width: 40%;
-  min-width: 30%;
-  margin-right: var(--dl-space-space-unit);
-  padding-left: var(--dl-space-space-unit);
-  padding-right: var(--dl-space-space-unit);
+.marra-i2c-container2 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: 40%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
 }
 .marra-i2c-link {
   text-decoration: underline;
 }
-.marra-i2c-text07 {
+.marra-i2c-text2 {
   align-self: center;
   padding-top: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-halfunit);
@@ -383,7 +383,7 @@
   align-items: center;
   justify-content: center;
 }
-.marra-i2c-container2 {
+.marra-i2c-container3 {
   gap: var(--dl-space-space-twounits);
   flex: 0 0 auto;
   width: 100%;
@@ -399,7 +399,7 @@
   box-shadow: 16px 16px 0px 0px #ed4e4e;
   object-fit: cover;
 }
-.marra-i2c-text08 {
+.marra-i2c-text3 {
   width: 60%;
   max-width: 40%;
   min-width: 30%;
