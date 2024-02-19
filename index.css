@@ -234,6 +234,7 @@
 
 
 
+
 @media(max-width: 767px) {
   .footer-footer1 {
     padding-left: var(--dl-space-space-twounits);
@@ -303,8 +304,9 @@
   background-color: #7c55ff;
 }
 .home-hero {
+  gap: var(--dl-space-space-unit);
   width: 100%;
-  height: 294px;
+  height: auto;
   display: flex;
   max-width: 100%;
   min-height: auto;
@@ -408,9 +410,6 @@
   display: contents;
 }
 .home-component {
-  text-decoration: none;
-}
-.home-component1 {
   text-decoration: none;
 }
 .home-navlink1 {
