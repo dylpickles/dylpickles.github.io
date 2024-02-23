@@ -96,6 +96,9 @@
 .project-button-template-root-class-name6 {
   max-width: 100%;
 }
+.project-button-template-root-class-name7 {
+  max-width: 100%;
+}
 @media(max-width: 767px) {
   .project-button-template-container {
     width: 100%;
@@ -415,23 +418,26 @@
 .home-navlink1 {
   display: contents;
 }
-.home-component2 {
+.home-component1 {
   text-decoration: none;
 }
 .home-navlink2 {
   display: contents;
 }
-.home-component3 {
+.home-component2 {
   text-decoration: none;
 }
 .home-navlink3 {
   display: contents;
 }
-.home-component4 {
+.home-component3 {
   text-decoration: none;
 }
 .home-navlink4 {
   display: contents;
+}
+.home-component4 {
+  text-decoration: none;
 }
 .home-component5 {
   text-decoration: none;
@@ -440,6 +446,12 @@
   display: contents;
 }
 .home-component6 {
+  text-decoration: none;
+}
+.home-navlink6 {
+  display: contents;
+}
+.home-component7 {
   text-decoration: none;
 }
 @media(max-width: 991px) {

@@ -98,12 +98,12 @@
   align-items: center;
 }
 .final-product-image {
-  width: 80%;
+  width: 65%;
   height: auto;
   object-fit: cover;
 }
 .final-product-text1 {
-  width: 20%;
+  width: auto;
   padding-left: var(--dl-space-space-unit);
 }
 
@@ -422,7 +422,7 @@
   box-shadow: 16px 16px 0px 0px #ed4e4e;
   object-fit: cover;
 }
-.marra-i2c-text4 {
+.marra-i2c-text3 {
   width: 60%;
   max-width: 40%;
   min-width: 30%;
